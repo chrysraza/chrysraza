@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrysraza
 - 👀 I’m interested in mechanical engineering
 - 🌱 I’m currently learning structural mechanics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on finite element
 - 📫 How to reach me chrysraza@gmailcom
 <!---
 chrysraza/chrysraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
